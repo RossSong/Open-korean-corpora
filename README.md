@@ -19,11 +19,13 @@ Our work focuses on curating open Korean corpora under the following criteria:
 - Documentation status
 - License for use and distribution
 
-#### Documentation and License
+#### Documentation
 For documentation status, *Docu.* the following holds.
 - **doc** - Does the corpus have any documentation on the usage?
 - **art** - Does the corpus have a related article?
 - **inter** - Does the corpus have a internationally available publication?
+
+#### License
 For *License*, we check the followings:
 - Commercially available (**com**), academic use only (**acad**), unknown (**unk**)
 - Redistribution is available with/without modification (**rd** and **rd/mod-x**), neither (**no**), unknown (**unk**)
@@ -34,7 +36,7 @@ For *License*, we check the followings:
 - In *Goal*, Eval is noted if the purpose is suggested as an evaluation.
 
 #### View at a Glance
-The table below describes the open Korean corpora investigated so far. To be updated along with our survey or PR.
+The table below describes the open Korean corpora investigated so far. To be updated along with our survey or PR. You can visit [Here](https://github.com/songys/AwesomeKorean_Data) for the Korean version, and more information regarding government-driven database.
 
 |No.|Dataset|Typical Usage|Provider|Docu.|License|Volume|Goal|Lang.|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
